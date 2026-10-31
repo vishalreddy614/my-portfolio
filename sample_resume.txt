@@ -1,0 +1,88 @@
+================================================================================
+                               K VISHAL REDDY
+        Cybersecurity Student | CSE (Cyber Security) | Dayananda Sagar University
+    Email: vishalreddy.0614@gmail.com
+    TryHackMe: https://tryhackme.com/p/vishalreddy.0614
+    GitHub: Coming soon | LinkedIn: Coming soon
+================================================================================
+
+MOTTO & PROFILE SUMMARY
+--------------------------------------------------------------------------------
+"Curious about systems. Passionate about security."
+
+I am a 2nd-year B.Tech student in Computer Science and Engineering (Cyber Security)
+at Dayananda Sagar University (DSU), Bengaluru. I am exploring the world of ethical
+hacking, network security, and penetration testing. I enjoy understanding how
+systems work, discovering security weaknesses, and learning how technology can
+be tested and protected through hands-on practice.
+
+EDUCATION
+--------------------------------------------------------------------------------
+Dayananda Sagar University (DSU), Bengaluru, India
+Bachelor of Technology (B.Tech)
+Computer Science and Engineering – Cyber Security (CSE-CY)
+Status: 2nd Year | 3rd Semester
+
+HACKING & SECURITY INTERESTS
+--------------------------------------------------------------------------------
+* Network Security         : Understanding networks, devices, protocols & weaknesses
+* Web Application Security : Exploring web technologies, OWASP concepts & app testing
+* Penetration Testing      : Learning ethical hacking methodologies & security tests
+* Vulnerability Assessment : Understanding how security flaws are found & evaluated
+* Linux Security           : Exploring Linux environments and security utilities
+* Wireless Security        : Learning wireless network security concepts
+* Cloud Security           : Understanding cloud infrastructure and security models
+* System Security          : Exploring operating system security and hardening
+
+CYBERSECURITY ARSENAL
+--------------------------------------------------------------------------------
+* Currently Used:
+  - Kali Linux             : Basic hands-on experience in virtualized lab settings
+* Tools I Want to Explore:
+  - Nmap                   : Network exploration and port scanning
+  - Wireshark              : Deep packet inspection and protocol analysis
+  - Burp Suite             : Web application security testing and proxying
+  - Metasploit             : Penetration testing framework and exploit verification
+  - Gobuster               : Directory, file, and DNS enumeration
+
+TECHNICAL SKILLS & PROFICIENCY
+--------------------------------------------------------------------------------
+* Python Programming      : Basic concepts mostly completed
+* C Programming           : Basic concepts mostly completed
+* Linux                   : Basic knowledge, currently learning
+* Computer Networking     : Foundational concepts, currently learning
+* Kali Linux              : Basic hands-on experience in lab settings
+
+HANDS-ON LEARNING JOURNEY
+--------------------------------------------------------------------------------
+* TryHackMe Platform      : Active hands-on learning through guided rooms & paths
+  Profile: https://tryhackme.com/p/vishalreddy.0614
+* Current Focus           : Cloud Computing room/module
+* Systems & Networking    : Linux fundamentals, TCP/IP stack, and command line tools
+* Lab Practice            : Basic hands-on exploration with Kali Linux
+
+COURSES & LEARNING (INFOSYS SPRINGBOARD)
+--------------------------------------------------------------------------------
+* Computer Networking     : Completed coursework via Infosys Springboard
+* Linux Fundamentals      : Completed coursework via Infosys Springboard
+* C Programming           : Completed coursework via Infosys Springboard
+
+CAREER GOALS ("WHERE I'M HEADING")
+--------------------------------------------------------------------------------
+* Ethical Hacking
+* Bug Bounty Hunting
+* Red Teaming
+* Vulnerability Assessment and Penetration Testing (VAPT)
+(Actively exploring these career paths and developing foundational skills)
+
+PROJECTS
+--------------------------------------------------------------------------------
+* Personal Cybersecurity Portfolio (Completed & Live)
+  Engineered a minimalist, monochrome glassmorphism portfolio website built
+  with Python, Flask, HTML, CSS, and vanilla JavaScript. Features dynamic
+  active-section navigation, mouse-reactive spotlight, 3D card tilt, and an
+  interactive secret terminal modal (Ctrl+K).
+
+* Upcoming Projects:
+  "Currently building, experimenting and learning. Projects coming soon."
+================================================================================
